@@ -5,7 +5,9 @@ BME 450, Abadi<br>
 1/29/20<br>
 
 ## Introduction
-In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:<br>
+In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:
+
+
 1.Oregon Shelf Surface Piercing Profiler Mooring<br>
 2.Oregon Offshore Cabled Shallow Profiler Mooring<br>
 3.Oregon Offshore Cabled Deep Profiler Mooring<br>
