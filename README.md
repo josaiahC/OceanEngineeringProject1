@@ -4,6 +4,16 @@ Josaiah Clark<br>
 BME 450, Abadi<br>
 1/29/20<br>
 
+##Introduction
+In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:<br>
+1.Oregon Shelf Surface Piercing Profiler Mooring<br>
+2.Oregon Offshore Cabled Shallow Profiler Mooring<br>
+3.Oregon Offshore Cabled Deep Profiler Mooring<br>
+4.Oregon Slope Base Shallow Profiler<br>
+5.Oregon Slope Base Deep Profiler<br>
+6.Axial Base Shallow Profiler<br>
+7.Axial Base Deep Profiler<br>
+
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
 
