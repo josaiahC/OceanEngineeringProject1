@@ -18,7 +18,6 @@ Format: ![Alt Text](url)
 6.Axial Base Shallow Profiler<br>
 7.Axial Base Deep Profiler<br>
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/download.png)
-Format: ![Alt Text](url)
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
