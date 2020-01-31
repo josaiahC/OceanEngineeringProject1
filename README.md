@@ -9,7 +9,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 
 1.Oregon Shelf Surface Piercing Profiler Mooring<br>
-![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/depthvtime.png)
+![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/download.png)
 Format: ![Alt Text](url)
 2.Oregon Offshore Cabled Shallow Profiler Mooring<br>
 3.Oregon Offshore Cabled Deep Profiler Mooring<br>
@@ -17,6 +17,8 @@ Format: ![Alt Text](url)
 5.Oregon Slope Base Deep Profiler<br>
 6.Axial Base Shallow Profiler<br>
 7.Axial Base Deep Profiler<br>
+![GitHub Logo](Axial_Base_Deep_Profiler/Winter/download.png)
+Format: ![Alt Text](url)
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
