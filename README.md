@@ -31,7 +31,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
 
-![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
+![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/ssp.png)
 
 <h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
 **Winter**
