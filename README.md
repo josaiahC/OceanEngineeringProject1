@@ -120,8 +120,9 @@ c. Compare the ssp profile in day and night of all profilers, explain what you f
   Similar to the changing of the seasons, the speed of sound profile in daytime tends to decrease the depth of the max speed of sound. Additionally, during the daytime thermoclines tend to extend, and as night time arrives they tend to shrink.
 
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
-
+    
 
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
-
+  The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until the changes in depth and salinity drive t 
+  
 Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit
