@@ -109,7 +109,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
-
+  In general, the deeper profilers had more dives per day. The Axial Base Profilers had the same number of dives per day, less than most other profilers; data were sparse for these two profilers. 
 
 b. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
   In the winter, the max speed of sound is 
