@@ -12,15 +12,15 @@ Format: ![Alt Text](url)
 <h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
 **Winter**
 ![alt](https://github.com/josaiahC/OceanEngineeringProject1/blob/master/Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png)
-![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
+![GitHub Logo](/Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
 **Summer**
 
 <h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
 **Winter**
-![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/dvt.png)
-![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png)
+![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/dvt.png)
+![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png)
 **Summer**
-![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
+![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
 
 <h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
