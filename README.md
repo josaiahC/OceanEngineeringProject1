@@ -55,7 +55,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
 
-![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
+![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/ssp.png)
 
 <h2>Summer</h2>
 
