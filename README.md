@@ -109,10 +109,10 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
-  In general, the deeper profilers had more dives per day. The Axial Base Profilers had the same number of dives per day, less than most other profilers; data were sparse for these two profilers. 
+  In general, the deeper profilers had more dives per day. The Axial Base profilers had the same number of dives per day, less than most other profilers. The Axial Base Profilers tend to travel over 2500 meters per trip, so seeing less trips per day than other profilers on these two CTD's makes sense.
 
 b. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
-  In the winter, the max speed of sound is 
+  In the winter, the max speed of sound is further from the top; this is most evident with shallow and modestly deep (less than 300m) profilers. With deep profilers like the Axial Base ones, the maximum speed of sound is as deep as the deepest sensor reading; at this point, depth becomes a more significant factor than temperature. 
 
   During the summer, the max speed of sound is always at or near the water's surface; this is due to the fact that the speed of sound increases with water temperature.
 
@@ -125,4 +125,5 @@ d. Compare the ssp profile in summer and winter of all profilers, explain what y
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
   The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until the changes in depth and salinity drive t 
   
+<h1>CODE</h1>
 Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit
