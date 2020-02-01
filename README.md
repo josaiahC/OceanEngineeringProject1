@@ -15,7 +15,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
 
-**Summer**
+<h2>Summer</h2>
 
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png)
 
@@ -29,7 +29,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png)
 
-**Summer**
+<h2>Summer</h2>
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
 
@@ -43,7 +43,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/ssp.png)
 
-**Summer**
+<h2>Summer</h2>
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/dvt.png)
 
@@ -57,7 +57,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
 
-**Summer**
+<h2>Summer</h2>
+
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Summer/dvt.png)
 
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Summer/ssp.png)
@@ -70,7 +71,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Winter/ssp.png)
 
-**Summer**
+<h2>Summer</h2>
 
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Summer/dvt.png)
 
@@ -84,7 +85,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Winter/ssp.png)
 
-**Summer**
+<h2>Summer</h2>
 
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Summer/dvt.png)
 
