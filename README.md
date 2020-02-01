@@ -91,7 +91,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/ssp.png)
 
-**Summer**
+<h4>Summer</h4>
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Summer/dvt.png)
 
