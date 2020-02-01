@@ -9,7 +9,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 <h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
 
-<h3>__Winter__</h3>
+<h2>Winter</h2>
 
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png)
 
@@ -22,7 +22,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/ssp.png)
 
 <h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/dvt.png)
 
@@ -35,7 +36,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/ssp.png)
 
 <h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/dvt.png)
 
@@ -48,7 +50,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/ssp.png)
 
 <h2>4.Oregon Slope Base Shallow Profiler</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
 
@@ -60,7 +63,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Summer/ssp.png)
 
 <h2>5.Oregon Slope Base Deep Profiler</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Winter/dvt.png)
 
@@ -73,7 +77,8 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Summer/ssp.png)
 
 <h2>6.Axial Base Shallow Profiler</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Winter/dvt.png)
 
@@ -86,17 +91,20 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Summer/ssp.png)
 
 <h2>7.Axial Base Deep Profiler</h2>
-**Winter**
+
+<h2>Winter</h2>
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/dvt.png)
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/ssp.png)
 
-<h4>Summer</h4>
+<h2>Summer</h2>
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Summer/dvt.png)
 
 ![GitHub Logo](Axial_Base_Deep_Profiler/Summer/ssp.png)
+
+<h2>Winter</h2>
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
