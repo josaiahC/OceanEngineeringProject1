@@ -8,7 +8,7 @@ BME 450, Abadi<br>
 In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:
 
 
-1.Oregon Shelf Surface Piercing Profiler Mooring<br>
+<h3>1.Oregon Shelf Surface Piercing Profiler Mooring<h3>
 **Winter**
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png)
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
