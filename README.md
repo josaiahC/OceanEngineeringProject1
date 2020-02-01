@@ -12,55 +12,67 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 ![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png)
 
-![GitHub Logo](/Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
+![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
 **Summer**
 
 <h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
 **Winter**
-![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/dvt.png)
-![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png)
+![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/dvt.png)
+
+![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png)
 **Summer**
-![GitHub Logo](/Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
+![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
+
 ![GitHub Logo](Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/dvt.png)
 
 <h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
 **Winter**
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/dvt.png)
+
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/ssp.png)
 **Summer**
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/dvt.png)
+
 ![GitHub Logo](Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/ssp.png)
 
 <h2>4.Oregon Slope Base Shallow Profiler</h2>
 **Winter**
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
+
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png)
 **Summer**
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Summer/dvt.png)
+
 ![GitHub Logo](Oregon_Slope_Base_Shallow_Profiler/Summer/ssp.png)
 
 <h2>5.Oregon Slope Base Deep Profiler</h2>
 **Winter**
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Winter/dvt.png)
+
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Winter/ssp.png)
 **Summer**
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Summer/dvt.png)
+
 ![GitHub Logo](Oregon_Slope_Base_Deep_Profiler/Summer/ssp.png)
 
 <h2>6.Axial Base Shallow Profiler</h2>
 **Winter**
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Winter/dvt.png)
+
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Winter/ssp.png)
 **Summer**
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Summer/dvt.png)
+
 ![GitHub Logo](Axial_Base_Shallow_Profiler/Summer/ssp.png)
 
 <h2>7.Axial Base Deep Profiler</h2>
 **Winter**
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/dvt.png)
+
 ![GitHub Logo](Axial_Base_Deep_Profiler/Winter/ssp.png)
 **Summer**
 ![GitHub Logo](Axial_Base_Deep_Profiler/Summer/dvt.png)
+
 ![GitHub Logo](Axial_Base_Deep_Profiler/Summer/ssp.png)
 
 Answer these questions:<br>
