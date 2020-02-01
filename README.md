@@ -112,10 +112,12 @@ a. Compare the number of dives per day of the shallow profiler vs deep profiler.
 
 
 b. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
+  In the winter, the max speed of sound is 
 
+  During the summer, the max speed of sound is always at or near the water's surface; this is due to the fact that the speed of sound increases with water temperature.
 
 c. Compare the ssp profile in day and night of all profilers, explain what you find (effect of day vs night).<br>
-
+  Similar to the changing of the seasons, the speed of sound profile in daytime tends to decrease the depth of the max speed of sound. Additionally, during the daytime thermoclines tend to extend, and as night time arrives they tend to shrink.
 
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
 
