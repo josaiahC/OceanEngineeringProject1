@@ -3,7 +3,7 @@ class Markdown extends React.Component {
       super(props);
       
       // replace with your URL, obviously
-      this.baseUrl = 'https://raw.githubusercontent.com/davidgilbertson/about-github/master/text-snippets';
+      this.baseUrl = 'README.md';
       
       this.state = {
         markdown: '',
