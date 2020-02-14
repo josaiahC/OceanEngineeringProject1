@@ -17,9 +17,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 | Depth versus Time |
 | <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png> | <img width=1604 float:right alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>|
 |Speed-of Sound Profile|
-|<img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png>
-|<img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/ssp.png>
-|
+|<img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png>| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/ssp.png>|
 
 <h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
 
