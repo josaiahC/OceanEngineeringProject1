@@ -30,6 +30,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 |<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png>|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/ssp.png>|
 
 <h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
