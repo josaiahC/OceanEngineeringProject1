@@ -73,7 +73,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 | Depth versus Time |
 | <img width=1604 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> | <img width=1604 float:right alt="hello" src=Axial_Base_Deep_Profiler/Summer/dvt.png>|
 |Speed-of Sound Profile|
-|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSD.png>|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Summer/avgSSD.png>|
+|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Winter/ssp.png>|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Summer/ssp.png>|
 
 
 Answer these questions:<br>
