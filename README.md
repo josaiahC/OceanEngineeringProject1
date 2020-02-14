@@ -44,7 +44,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
-| <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profile/Winter/dvt.png> | <img width=1604 float:right alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/dvt.png>|
+| <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/dvt.png> | <img width=1604 float:right alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/dvt.png>|
 |Speed-of Sound Profile|
 |<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/ssp.png>|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/ssp.png>|
 
