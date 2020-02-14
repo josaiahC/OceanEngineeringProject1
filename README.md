@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href=main.css>
+</head>
 # <div align=center>    CTD Project </div> <br>
 
 Josaiah Clark<br>
