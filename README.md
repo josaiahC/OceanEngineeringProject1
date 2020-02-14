@@ -14,7 +14,7 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 
 <h2>Winter</h2>
 <img width="20%" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>
-<h2 position="float" align="right">Summer</h2>
+<h2 float:right align="right">Summer</h2>
 <img width="20%" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>
 
 
