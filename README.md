@@ -89,7 +89,7 @@ c. Compare the ssp profile in day and night of all profilers, explain what you f
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
 | Profiler | Winter | Summer |
 | --- | --- | --- |
-|<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |
+|Oregon Shelf Surface Piercing <br> Profiler Mooring |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |
 
     The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
 
