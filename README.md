@@ -11,12 +11,14 @@ Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeek
 In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:
 
 <h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
-
+<div float:left>
 <h2 float:left>Winter</h2>
 <img width="20%" float:left alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>
+</div>
+<div float:right>
 <h2 float:right align="right">Summer</h2>
 <img width="20%" float:right alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>
-
+</div>
 
 <img width="20%" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png>
 
