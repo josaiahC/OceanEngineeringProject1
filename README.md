@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
   <link rel="stylesheet" href=main.css>
 </head>
