@@ -8,12 +8,15 @@ BME 450, Abadi<br>
 Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit 
 
 ## Introduction
-In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:
+In this project, depth frequency and speed-of-sound profiles in Winter versus Summer and Day versus Night were considered for various CTD locations in the Cascadia region. Additionally, average speed-of-sound profiles were compared between locations.
+
+<h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
 | <img width=1704 align="center" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png> | <img width=1704 float:right alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>|
-<h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
+
 <h2>Winter</h2>
 <img width="20%" float:left alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>
 </div>
