@@ -89,20 +89,15 @@ c. Compare the ssp profile in day and night of all profilers, explain what you f
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
 | Profiler | Winter | Summer |
 | --- | --- | --- |
-| Oregon Shelf Surface Piercing Profiler Mooring |<img width=1069 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSD.png> |<img width=1069 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSD.png> |
-| Oregon Offshore Cabled Shallow Profiler Mooring | <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/avgSSD.png> | <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/avgSSD.png>|
-| Oregon Offshore Cabled Deep Profiler Mooring|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/avgSSD.png> |<img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/avgSSD.png> |
-| Oregon Slope Base Shallow Profiler|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/avgSSD.png> | <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/avgSSD.png>|
-| Oregon Slope Base Deep Profiler|<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Winter/avgSSD.png> |<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Summer/avgSSD.png> |
+| Oregon Shelf Surface Piercing Profiler Mooring |<img width=1069 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSP.png> |<img width=1069 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSP.png> |
+| Oregon Offshore Cabled Shallow Profiler Mooring | <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/avgSSP.png> | <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/avgSSP.png>|
+| Oregon Offshore Cabled Deep Profiler Mooring|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/avgSSP.png> |<img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/avgSSP.png> |
+| Oregon Slope Base Shallow Profiler|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/avgSSP.png> | <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/avgSSP.png>|
+| Oregon Slope Base Deep Profiler|<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Winter/avgSSP.png> |<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Summer/avgSSP.png> |
 | Axial Base Shallow Profiler| <img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Winter/avgSSD.png>|<img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Summer/avgSSD.png> | 
-| Axial Base Deep Profiler|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSD.png> |<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Summer/avgSSD.png> |
+| Axial Base Deep Profiler|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSP.png> |<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Summer/avgSSP.png> |
 
     The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
 
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
   The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until increases in depth and salinity outweigh further decreases in temperature, causing the speed of sound to increase again.
-  
-
-article .left_column{
-font-size: 14px;
-}
