@@ -13,11 +13,10 @@ In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Wint
 <h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
 
 <h2>Winter</h2>
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-<img width="1604" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>|
 
-![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)|
+<img width="160" alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>
+
+![GitHub Logo](Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png)
 
 <h2>Summer</h2>
 
