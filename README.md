@@ -78,23 +78,27 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
-  The Oregon Offshore Cabled Shallow Profiler Mooring (~200m) showed a daily dive count of nine and the Oregon Offshore Cabled Deep Profiler Mooring (~500m) showed dive counts of twelve and thirteen. These two dive counts are not significantly different from each other, which can be explained by the fact that they have relatively similar depths. Both the Oregon Slope Base Profiler and the Axial Base Profiler have a clear pattern of more dives in shallower water. As shown in figures 13,14,17, and 18, nine dives per day were observed with the Oregon Slope Base Shallow Profiler and only up to four dives per day were observed with the Oregon Slope Base Deep Profiler. Likewise, figures 21,22,25, and 26 show nine dives per day with the Axial Base Shallow Profiler and three dives per day with the Axial Base Deep Profiler. The Axial Base Deep Profiler tends to travel to over 2500m each dive, so seeing less trips per day than its shallow profiler counterpart (200m) makes sense. The same applies to the Oregon Slope Base Deep profiler: with a maximum depth approaching 3000m, it is only natural that each dive takes longer than the Oregon Slope Base Shallow profiler, which only reaches about 200m.
+<p>The Oregon Offshore Cabled Shallow Profiler Mooring (~200m) showed a daily dive count of nine and the Oregon Offshore Cabled Deep Profiler Mooring (~500m) showed dive counts of twelve and thirteen. These two dive counts are not significantly different from each other, which can be explained by the fact that they have relatively similar depths. Both the Oregon Slope Base Profiler and the Axial Base Profiler have a clear pattern of more dives in shallower water. As shown in figures 13,14,17, and 18, nine dives per day were observed with the Oregon Slope Base Shallow Profiler and only up to four dives per day were observed with the Oregon Slope Base Deep Profiler. Likewise, figures 21,22,25, and 26 show nine dives per day with the Axial Base Shallow Profiler and three dives per day with the Axial Base Deep Profiler. The Axial Base Deep Profiler tends to travel to over 2500m each dive, so seeing less trips per day than its shallow profiler counterpart (200m) makes sense. The same applies to the Oregon Slope Base Deep profiler: with a maximum depth approaching 3000m, it is only natural that each dive takes longer than the Oregon Slope Base Shallow profiler, which only reaches about 200m.
+</p>
 
 b. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
-  In the winter, the max speed of sound is further from the top; this is most evident with shallow and modestly deep (less than 300m) profilers. With deep profilers like the Axial Base ones, the maximum speed of sound is as deep as the deepest sensor reading; at this point, depth becomes a more significant factor than temperature. During the summer, the max speed of sound is always at or near the water's surface; this is due to the fact that the speed of sound increases with water temperature.
+<p>In the winter, the max speed of sound is further from the top; this is most evident with shallow and modestly deep (less than 300m) profilers. With deep profilers like the Axial Base ones, the maximum speed of sound is as deep as the deepest sensor reading; at this point, depth becomes a more significant factor than temperature. During the summer, the max speed of sound is always at or near the water's surface; this is due to the fact that the speed of sound increases with water temperature.
+</p>
 
 c. Compare the ssp profile in day and night of all profilers, explain what you find (effect of day vs night).<br>
-  
+<p>
+</p>
   
   Similar to the changing of the seasons, the speed of sound profile in daytime tends to decrease the depth of the max speed of sound. Additionally, during the daytime thermoclines tend to extend, and as night time arrives they tend to shrink. This effect is more pronounced with shallower profilers than deeper profilers, as fluctuations in temperature are larger toward the water's surface.
 
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
-
+<p>
+</p>
 
 The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
 
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
- <p>Both the Oregon Slope Base Deep Profiler and the Axial Base Deep Profiler</p>
+<p>Both the Oregon Slope Base Deep Profiler and the Axial Base Deep Profiler</p>
 
 The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until increases in depth and salinity outweigh further decreases in temperature, causing the speed of sound to increase again.
   
