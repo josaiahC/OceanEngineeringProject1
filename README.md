@@ -94,7 +94,7 @@ d. Compare the ssp profile in summer and winter of all profilers, explain what y
 | Oregon Offshore Cabled Deep Profiler Mooring|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/avgSSP.png> |<img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/avgSSP.png> |
 | Oregon Slope Base Shallow Profiler|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/avgSSP.png> | <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/avgSSP.png>|
 | Oregon Slope Base Deep Profiler|<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Winter/avgSSP.png> |<img width=1604 align="center" alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Summer/avgSSP.png> |
-| Axial Base Shallow Profiler| <img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Winter/avgSSD.png>|<img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Summer/avgSSD.png> | 
+| Axial Base Shallow Profiler| <img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Winter/avgSSP.png>|<img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Summer/avgSSP.png> | 
 | Axial Base Deep Profiler|<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Winter/avgSSP.png> |<img width=1604 alt="hello" src=Axial_Base_Deep_Profiler/Summer/avgSSP.png> |
 
     The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
