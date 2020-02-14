@@ -137,6 +137,6 @@ e. Compare the average ssp profiles of all profilers recorded at the same day in
   The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until increases in depth and salinity outweigh further decreases in temperature, causing the speed of sound to increase again.
   
 
-.left_column{
+article .left_column{
 font-size: 14px;
 }
