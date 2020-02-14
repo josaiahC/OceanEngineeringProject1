@@ -5,8 +5,7 @@ BME 450, Abadi<br>
 1/31/20<br>
 
 <h1>CODE</h1>
-Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit 
-<br>
+Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit <br>
 
 ## Introduction
 In this project, depth frequency and speed-of-sound profiles in Winter versus Summer and Day versus Night were considered for various CTD locations in the Cascadia region. Additionally, average speed-of-sound profiles were compared between locations.
