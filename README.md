@@ -60,7 +60,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 <h2>6.Axial Base Shallow Profiler</h2>
 
 | Winter | Summer |
-| --- | --: |
+| --- | --- |
 | Depth versus Time |
 | <img width=1604 align="center" alt="hello" src=Axial_Base_Shallow_Profiler/Winter/dvt.png><br>Figure 21| <img width=1604 alt="hello" src=Axial_Base_Shallow_Profiler/Summer/dvt.png><br>Figure 22|
 |Speed-of Sound Profile|
@@ -69,7 +69,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 <h2>7.Axial Base Deep Profiler</h2>
 
 | Winter | Summer |
-| --- | --: |
+| --- | --- |
 | Depth versus Time |
 | <img width=1604 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png><br>Figure 25| <img width=1604  alt="hello" src=Axial_Base_Deep_Profiler/Summer/dvt.png><br>Figure 26|
 |Speed-of Sound Profile|
