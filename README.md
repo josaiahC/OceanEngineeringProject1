@@ -94,7 +94,7 @@ d. Compare the ssp profile in summer and winter of all profilers, explain what y
 The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
 
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
-
+ <p>Both the Oregon Slope Base Deep Profiler and the Axial Base Deep Profiler</p>
 
 The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until increases in depth and salinity outweigh further decreases in temperature, causing the speed of sound to increase again.
   
