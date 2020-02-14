@@ -40,6 +40,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 
 
 <h2>4.Oregon Slope Base Shallow Profiler</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
@@ -48,6 +49,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 |<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler_Mooring/Winter/ssp.png>|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler_Mooring/Summer/ssp.png>|
 
 <h2>5.Oregon Slope Base Deep Profiler</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
@@ -56,6 +58,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 |<img width=1604 alt="hello" src=Oregon_Slope_Base_Deep_Profiler_Mooring/Winter/ssp.png>|<img width=1604 alt="hello" src=Oregon_Slope_Base_Deep_Profiler_Mooring/Summer/ssp.png>|
 
 <h2>6.Axial Base Shallow Profiler</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
@@ -64,6 +67,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 |<img width=1604 alt="hello" src=Axial_Base_Shallow_Profiler_Mooring/Winter/ssp.png>|<img width=1604 alt="hello" src=Axial_Base_Shallow_Profiler_Mooring/Summer/ssp.png>|
 
 <h2>7.Axial Base Deep Profiler</h2>
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
