@@ -1,5 +1,4 @@
-<Markdown url="markdown.md" />
-# <div align=center>    CTD Project </div> <br>
+<div align=center>   # CTD Project </div> <br>
 
 Josaiah Clark<br>
 BME 450, Abadi<br>
