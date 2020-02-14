@@ -4,6 +4,9 @@ Josaiah Clark<br>
 BME 450, Abadi<br>
 1/31/20<br>
 
+<h1>CODE</h1>
+Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit 
+
 ## Introduction
 In this project, Depth vs. Time and Speed of Sound vs. Depth were mapped in Winter and Summer for the following CTD locations:
 
@@ -123,5 +126,4 @@ d. Compare the ssp profile in summer and winter of all profilers, explain what y
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
   The average speed-of-sound profiles for all profilers assume shapes that are fairly predictable, decreasing to a maximum speed-of-sound point until increases in depth and salinity outweigh further decreases in temperature, causing the speed of sound to increase again.
   
-<h1>CODE</h1>
-Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeekaGE1iKsit
+
