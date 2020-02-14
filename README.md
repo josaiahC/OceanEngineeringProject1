@@ -22,6 +22,8 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 |
 
 <h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
+
+
 | Winter | Summer |
 | --- | --: |
 | Depth versus Time |
