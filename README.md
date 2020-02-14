@@ -15,7 +15,7 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 | Winter | Summer |
 | --- | --- |
 | Depth versus Time |
-| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png>| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>|
+| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/dvt.png><br>Figure 1| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/dvt.png>|
 |Speed-of Sound Profile|
 |<img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png>| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/ssp.png>|
 
@@ -78,6 +78,8 @@ In this project, depth frequency and speed-of-sound profiles in Winter versus Su
 
 Answer these questions:<br>
 a. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
+  The Oregon Offshore Cabled Profiler Mooring has a shallow profiler (~200m) dive count of nine and deep profiler (~500m)dive counts of twelve and thirteen, which is close to the same. Both the Oregon Slope Base Profiler and the Axial Base Profiler have a clear pattern of more dives in shallower water. As shown 
+  
   In general, the deeper profilers had more dives per day. The Axial Base profilers had the same number of dives per day, less than most other profilers. The Axial Base Profilers tend to travel over 2500 meters per trip, so seeing less trips per day than other profilers on these two CTD's makes sense.
 
 b. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
