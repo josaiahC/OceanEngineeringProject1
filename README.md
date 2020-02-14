@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <link rel="stylesheet" href=main.css>
-</head>
+<Markdown url="markdown.md" />
 # <div align=center>    CTD Project </div> <br>
 
 Josaiah Clark<br>
