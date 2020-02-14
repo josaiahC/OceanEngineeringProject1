@@ -100,7 +100,7 @@ The average speed-of-sound profiles for all profilers assume shapes that are fai
   
 | Profiler | Winter | Summer |
 | --- | --- | --- |
-| Oregon Shelf Surface Piercing Profiler Mooring |<img width=1069 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/avgSSP.png><br>Figure 29 |<img width=1069 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/avgSSP.png><br>Figure 30|
+| Oregon Shelf Surface Piercing Profiler Mooring |<img width=1069 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/avgSSP.png><br>Figure 29 |<img width=1069 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/avgSSP.png><br>Figure 30|
 | Oregon Offshore Cabled Shallow Profiler Mooring | <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/avgSSP.png><br>Figure 31| <img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/avgSSP.png><br>Figure 32|
 | Oregon Offshore Cabled Deep Profiler Mooring|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/avgSSP.png><br>Figure 33|<img width=1604 align="center" alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/avgSSP.png><br>Figure 34|
 | Oregon Slope Base Shallow Profiler|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/avgSSP.png><br>Figure 35| <img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/avgSSP.png><br>Figure 36|
