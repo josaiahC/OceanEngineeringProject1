@@ -87,6 +87,10 @@ c. Compare the ssp profile in day and night of all profilers, explain what you f
   Similar to the changing of the seasons, the speed of sound profile in daytime tends to decrease the depth of the max speed of sound. Additionally, during the daytime thermoclines tend to extend, and as night time arrives they tend to shrink. This effect is more pronounced with shallower profilers than deeper profilers, as fluctuations in temperature are larger toward the water's surface.
 
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
+| Profiler | Winter | Summer |
+| --- | --- | --- |
+|<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |<img width=1069 align="center" alt="hello" src=Axial_Base_Deep_Profiler/Winter/dvt.png> |
+
     The speed-of-sound profile in the Summer of all profilers shows a sharper drop in speed of sound than Winter. The ocean's thermocline in the summer must be causing a steeper temperature gradient than in Winter due to surface water heating.
 
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).<br>
