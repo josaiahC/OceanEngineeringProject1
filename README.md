@@ -89,8 +89,6 @@ c. Compare the sound speed profile in day and night of all profilers, explain wh
 <p> Eleven out of fourteen sound speed profiles show higher surface sound speeds at night than in the day. In general though, there does not appear to be a significant difference between sound speed profiles at night versus in the day for any profilers. 
 </p>
   
-  Similar to the changing of the seasons, the speed of sound profile in daytime tends to decrease the depth of the max speed of sound. Additionally, during the daytime thermoclines tend to extend, and as night time arrives they tend to shrink. This effect is more pronounced with shallower profilers than deeper profilers, as fluctuations in temperature are larger toward the water's surface.
-
 d. Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).<br>
 <p>For all profilers except for the Oregon Slope Base Deep Profiler and the Axial Base Deep Profiler, the Summer sound speed profile shows a pronounced thermocline with maximum speeds of sound consistently apearing at their shallowest depth readings. Likewise, Winter profiles show increasing sound speed until maxima at depths of 60-80 meters. Notably, sound speed profiles for the Oregon Offshore Cabled Deep Profiler Mooring, Oregon Slope Base Deep Profiler, and Axial Base Deep Profiler remain constant between seasons. This pattern with deeper profilers can be explained by sunlight's decreasing effect on water temperature with increasing depth. Light's limited ability to penetrate into water means that after a certain depth, the sound speed profile will not significantly change from Winter to Summer.
 </p>
