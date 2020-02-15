@@ -10,7 +10,7 @@ Colab Notebook: https://colab.research.google.com/drive/1txsKG376K3uNdF4mjwaFeek
 ## Introduction
 In this project, daily dive counts and sound speed profiles in Winter versus Summer and Day versus Night were considered for various CTD locations in the Cascadia region. Additionally, average sound speed profiles were compared between locations.
 
-<h2>1.Oregon Shelf Surface Piercing Profiler Mooring</h2>
+<h2>1. Oregon Shelf Surface Piercing Profiler Mooring</h2>
 
 | Winter | Summer |
 | --- | --- |
@@ -19,7 +19,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |Sound Speed Profile|
 |<img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Winter/ssp.png><br>Figure 3| <img width=1604 alt="hello" src=Oregon_Shelf_Surface_Piercing_Profiler_Mooring/Summer/ssp.png><br>Figure 4|
 
-<h2>2.Oregon Offshore Cabled Shallow Profiler Mooring</h2>
+<h2>2. Oregon Offshore Cabled Shallow Profiler Mooring</h2>
 
 
 | Winter | Summer |
@@ -29,7 +29,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |Sound Speed Profile|
 |<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Winter/ssp.png><br>Figure 7|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Shallow_Profiler_Mooring/Summer/ssp.png><br>Figure 8|
 
-<h2>3.Oregon Offshore Cabled Deep Profiler Mooring</h2>
+<h2>3. Oregon Offshore Cabled Deep Profiler Mooring</h2>
 
 | Winter | Summer |
 | --- | --- |
@@ -39,7 +39,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Winter/ssp.png><br>Figure 11|<img width=1604 alt="hello" src=Oregon_Offshore_Cabled_Deep_Profiler_Mooring/Summer/ssp.png><br>Figure 12|
 
 
-<h2>4.Oregon Slope Base Shallow Profiler</h2>
+<h2>4. Oregon Slope Base Shallow Profiler</h2>
 
 | Winter | Summer |
 | --- | --- |
@@ -48,7 +48,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |Sound Speed Profile|
 |<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Winter/ssp.png><br>Figure 15|<img width=1604 alt="hello" src=Oregon_Slope_Base_Shallow_Profiler/Summer/ssp.png><br>Figure 16|
 
-<h2>5.Oregon Slope Base Deep Profiler</h2>
+<h2>5. Oregon Slope Base Deep Profiler</h2>
 
 | Winter | Summer |
 | --- | --- |
@@ -57,7 +57,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |Sound Speed Profile|
 |<img width=1604 alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Winter/ssp.png><br>Figure 19|<img width=1604 alt="hello" src=Oregon_Slope_Base_Deep_Profiler/Summer/ssp.png><br>Figure 20|
 
-<h2>6.Axial Base Shallow Profiler</h2>
+<h2>6. Axial Base Shallow Profiler</h2>
 
 | Winter | Summer |
 | --- | --- |
@@ -66,7 +66,7 @@ In this project, daily dive counts and sound speed profiles in Winter versus Sum
 |Sound Speed Profile|
 |<img width=1604 alt="hello" src=Axial_Base_Shallow_Profiler/Winter/ssp.png><br>Figure 23|<img width=1604 alt="hello" src=Axial_Base_Shallow_Profiler/Summer/ssp.png><br>Figure 24|
 
-<h2>7.Axial Base Deep Profiler</h2>
+<h2>7. Axial Base Deep Profiler</h2>
 
 | Winter | Summer |
 | --- | --- |
